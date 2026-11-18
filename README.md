@@ -6,7 +6,13 @@ Aplicación no oficial para Android TV. Permite explorar catálogos de anime y g
 
 ## Instalar por primera vez
 
-En Downloader, abre este enlace cuando se publique el primer Release:
+En **Downloader**, escribe solo este código y pulsa **Go**:
+
+**`3706150`**
+
+También puedes compartir el enlace corto [aftv.news/3706150](https://aftv.news/3706150). Apunta a la APK del último Release, por lo que el código seguirá sirviendo para futuras versiones.
+
+Enlace directo de respaldo:
 
 `https://github.com/Adrixton2/animex-tv/releases/latest/download/animex-tv.apk`
 
