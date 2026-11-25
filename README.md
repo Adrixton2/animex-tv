@@ -20,9 +20,9 @@ Descarga la APK, permite la instalación desde Downloader si Android te lo solic
 
 ## Si ya tenías la versión antigua
 
-La versión 0.1.154 tiene un identificador propio y puede instalarse junto a JKanime o Animex 0.1.153. Si no necesitas conservar sus datos, instala la última APK directamente.
+La versión 0.1.154 tiene un identificador propio y puede instalarse junto a una versión anterior, incluida Animex 0.1.153. Si no necesitas conservar sus datos, instala la última APK directamente.
 
-Para conservar perfiles y progreso de una versión antigua de JKanime, instala la [APK de migración](https://github.com/Adrixton2/animex-tv/releases/download/v0.1.154/animex-migracion-0.1.152.apk) encima de JKanime, abre **Ajustes → Copia de tus datos → Guardar copia** y guarda el JSON fuera de la TV. Comprueba que la copia existe. Después instala Animex y usa **Ajustes → Copia de tus datos → Restaurar copia**. Cada TV necesita su propia copia. Si ya usabas Animex 0.1.153, exporta directamente desde sus ajustes.
+Para conservar perfiles y progreso de una versión anterior a Animex 0.1.153, instala la [APK de migración](https://github.com/Adrixton2/animex-tv/releases/download/v0.1.154/animex-migracion-0.1.152.apk) encima de la app antigua, abre **Ajustes → Copia de tus datos → Guardar copia** y guarda el JSON fuera de la TV. Comprueba que la copia existe. Después instala Animex y usa **Ajustes → Copia de tus datos → Restaurar copia**. Cada TV necesita su propia copia. Si ya usabas Animex 0.1.153, exporta directamente desde sus ajustes.
 
 Si Android rechaza la APK de migración, conserva la instalación antigua y sus datos; esa TV puede tener una firma distinta.
 
